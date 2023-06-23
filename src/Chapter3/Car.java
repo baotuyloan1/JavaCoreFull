@@ -38,6 +38,17 @@ public class Car {
       System.out.println("car's weight is " + car.weight);
     }
 
+//    a method-local inner class
+    void start(){
+      class Stater extends Thread{
+        public void run(){
+          System.out.println("Stating...");
+        }
+      };
+
+
+    }
+
 
   }
 }

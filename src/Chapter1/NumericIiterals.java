@@ -1,3 +1,5 @@
+package Chapter1;
+
 public class NumericIiterals {
     public static void main(String[] args) {
         long a = 9_223_372_036_854_775_807l;
@@ -17,6 +19,13 @@ public class NumericIiterals {
         long m = 9_223_372_036_854_775_801l;
         int z = (int)m;
         System.out.println(z);
+
+
+        int o = 12__32;
+        System.out.println(o);
+
+        int h = 01231;
+        System.out.println(h);
 
 
     }

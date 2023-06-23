@@ -1,0 +1,33 @@
+
+0
+java:S1220""Move this file to a named package.
+V	java:S125"<This block of commented-out lines of code should be removed.(¹ÍÇüþÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(åÝŠ¬üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "matrix".(Ô™é§üÿÿÿÿ
+F
+java:S1481"+Remove this unused "matrix" local variable.(Ô™é§üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ðÂÏéûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÉŽ” 
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ®ß­ýÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(çõƒ‘
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ƒ®ß­ýÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Ÿøìýÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(’Ñàªùÿÿÿÿ
+@
+java:S11973"*Move the array designators [] to the type.(Î¿‰·
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(°ŸÜËþÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(š’â¨ùÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(©¹ŒÌÿÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ƒîóãþÿÿÿÿ
+6
+java:S2129?" Remove this "String" constructor(äÓÕú
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(©¹ŒÌÿÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(®¸‹»üÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(ÃµÀ¤þÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(·ùßóýÿÿÿÿ
+V
+java:S1144";Remove this unused private "multiDeimensionalArray" method.(úÇÜ¦øÿÿÿÿ
+K
+java:S1144*"6Remove this unused private "oneDemensionArray" method.(§‹öU

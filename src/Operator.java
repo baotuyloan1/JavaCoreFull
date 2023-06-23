@@ -1,68 +1,74 @@
 public class Operator {
-    public static void main(String[] args) {
-//        number();
+  public static void main(String[] args) {
+    //        number();
 
-//        stringConcatenation();
+    //        stringConcatenation();
 
-        integer();
+    String a = "5";
 
-    }
+    String b = "5";
+    System.out.println(a == b);
 
-    private static void integer() {
-        int x = 51234;
-        System.out.println(x * 16);
-        System.out.println(x << 4);
+    //    integer();
+  }
 
-        System.out.println(x / 16);
-        System.out.println(x >> 4);
+  private static void integer() {
+    int x = 51234;
+    System.out.println(x * 16);
+    System.out.println(x << 4);
 
-        byte a = 41;
-        System.out.println(a);
-    }
+    System.out.println(x / 16);
+    System.out.println(x >> 4);
 
-    private static void stringConcatenation() {
-        String message = "Hello";
-        int a = 5;
-        int b = 8;
-        System.out.println(a + b + message);
+    byte a = 41;
+    System.out.println(a);
+  }
 
+  private static void stringConcatenation() {
+    String message = "Hello";
+    int a = 5;
+    int b = 8;
+    System.out.println(message + a + b);
 
-        float x = 0.75f;
-        float y = x++;
-        System.out.println(x);
-        System.out.println(y);
-    }
+    float x = 0.75f;
+    float y = x++;
+    System.out.println(x);
+    System.out.println(y);
+  }
 
-    private static void number() {
-        float a = -5 / 4;
-        System.out.println(a);
+  private static void number() {
+    float m = 3 / 4;
+    System.out.println(m);
 
-        float b = 3f / 4F;
-        System.out.println(b);
+    float a = -5 / 4;
+    System.out.println(a);
 
-        float c = 3f / 4;
-        System.out.println(c);
+    float b = 3f / 4F;
+    System.out.println(b);
 
-        float d = 3 / 4f;
-        System.out.println(d);
+    float c = 3f / 4;
+    System.out.println(c);
 
-        float e = 3 / ((float) 4);
-        System.out.println(e);
+    float d = 3 / 4f;
+    System.out.println(d);
 
-        long x = -3;
-        int y = 4;
-        float z = (float) (x / y);
-        System.out.println(z);
+    float e = 3 / ((float) 4);
+    System.out.println(e);
 
-        int integer = 100;
-        float result = integer / 0;
-        System.out.println(result);
+    long x = -3;
+    int y = 4;
+    float z = (float) (x / y);
+    System.out.println(z);
 
-        double pi = 3.14f;
-        double resultPi = pi / 0;
-        System.out.println(resultPi);
+    int integer = 100;
+    float result = integer / 0;
+    System.out.println(result);
 
-        double resultRe = pi % 0;
-        System.out.println(resultRe);
-    }
+    double pi = 3.14f;
+    double resultPi = pi / 0;
+    System.out.println(resultPi);
+
+    double resultRe = pi % 0;
+    System.out.println(resultRe);
+  }
 }

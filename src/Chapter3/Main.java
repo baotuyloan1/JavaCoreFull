@@ -16,5 +16,8 @@ public class Main {
         Car car1 = new Car();
         Car.Body body = car1. new Body();
         body.print();
+
+        Car car2 = new Car();
+        Car.Body body2 = car2.new Body();
     }
 }

@@ -1,0 +1,47 @@
+
+^
+java:S4973
+"<Strings and Boxed types should be compared using "equals()".(†Á¸ÿÿÿÿÿ8Ñƒ’Äü0
+7
+java:S1220""Move this file to a named package.8Òƒ’Äü0
+c
+java:S2184("ACast one of the operands of this division operation to a "float".(ƒ‹Íùÿÿÿÿ8Òƒ’Äü0
+c
+java:S2184+"ACast one of the operands of this division operation to a "float".(ôò¤¦úÿÿÿÿ8Òƒ’Äü0
+\
+java:S2184<"@Cast one of the operands of this integer division to a "double".(Şô²?8Òƒ’Äü0
+c
+java:S2184@"ACast one of the operands of this division operation to a "float".(ñ¨™Àşÿÿÿÿ8Òƒ’Äü0
+e
+java:S3518@"CMake sure this expression can't be zero before doing this division.(ñ¨™Àşÿÿÿÿ8âƒ’Äü0
+X	java:S125"<This block of commented-out lines of code should be removed.(Êˆ÷³8íƒ’Äü0
+X	java:S125"<This block of commented-out lines of code should be removed.(¼–ğÉ8íƒ’Äü0
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(†Á¸ÿÿÿÿÿ8ğƒ’Äü0
+]	java:S125"<This block of commented-out lines of code should be removed.(õùûúøÿÿÿÿ8ñƒ’Äü0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(çá‘8øƒ’Äü0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñŠòşÿÿÿÿ8ùƒ’Äü0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µÙŞøÿÿÿÿ8ùƒ’Äü0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®„„øÿÿÿÿ8úƒ’Äü0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8şƒ’Äü0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(òı§´şÿÿÿÿ8„„’Äü0
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8…„’Äü0
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(Éê—8…„’Äü0
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(à¿öÑúÿÿÿÿ8‹„’Äü0
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8‹„’Äü0
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ8‹„’Äü0
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(Áß‡Ü8‹„’Äü0
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(¯ô¢ô8‹„’Äü0
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8Œ„’Äü0
+D
+java:S1905<"(Remove this unnecessary cast to "float".(Şô²?8„’Äü0
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(ãŒÂÔøÿÿÿÿ8„’Äü0
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8„’Äü0
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(äñ”³ıÿÿÿÿ8„’Äü0
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(‚¥Øıÿÿÿÿ8„’Äü0
+N
+java:S1144",Remove this unused private "integer" method.(°š®ùÿÿÿÿ8„’Äü0
+Z
+java:S1144"8Remove this unused private "stringConcatenation" method.(ÏÄÿÓıÿÿÿÿ8„’Äü0
+H
+java:S1144'"+Remove this unused private "number" method.(‘â«»8„’Äü0

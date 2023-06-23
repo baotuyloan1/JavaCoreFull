@@ -1,0 +1,25 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ëš‹8Ê®Ãàü0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ûÉ´©8Ù®Ãàü0
+p
+java:S1450"SRemove the "name" field and declare it as a local variable in the relevant methods.(Ë¥¼8Ú®Ãàü0
+r
+java:S1450"URemove the "spokes" field and declare it as a local variable in the relevant methods.(¾êŒ–8Ú®Ãàü0
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(‚Áêí8Û®Ãàü0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(”™¯8Û®Ãàü0
+S
+java:S2696!"6Make the enclosing method "static" or remove this set.(º¸·8Ü®Ãàü0
+X	java:S125"<This block of commented-out lines of code should be removed.(†àˆµ8Ü®Ãàü0
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(œ„ïóùÿÿÿÿ8İ®Ãàü0
+W
+java:S1161,":Add the "@Override" annotation above this method signature(“–ış8ä®Ãàü0
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ü…Ô©şÿÿÿÿ8ä®Ãàü0
+>
+java:S1116/"Remove this empty statement.(ôŸìúÿÿÿÿ8å®Ãàü0
+F
+java:S1068")Remove this unused "brand" private field.(ÍÂ·Ä8å®Ãàü0
+G
+java:S1068"*Remove this unused "spokes" private field.(¾êŒ–8å®Ãàü0
+E
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8å®Ãàü0
