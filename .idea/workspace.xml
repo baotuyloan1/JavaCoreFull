@@ -5,69 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d85178b-2ed8-491f-be1f-c9974165a890" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter1/ControlStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/finalKey/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/finalKey/BlackCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/finalKey/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/finalKey/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/finalKey/MyCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter2/finalKey/PrettyCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Constructors/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Constructors/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Constructors/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Constructors/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Constructors/Sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Constructors/Super.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Inheritance/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Inheritance/FireTruck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Inheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Inheritance/Moveable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Inheritance/Sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Inheritance/SubclassVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Inheritance/Super.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Inheritance/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Inheritance/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Interfaces/AnotherUserDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Interfaces/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Interfaces/DefaultUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Interfaces/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Interfaces/Programmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Interfaces/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Interfaces/User1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Interfaces/UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Interfaces/UserDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Interfaces/a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Interfaces/c.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Polymorphism/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Polymorphism/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Polymorphism/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/Polymorphism/Trainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuizTest/BaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuizTest/DerivedClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuizTest/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuizTest/Overloaded.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuizTest/SubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuizTest/SuperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuizTest/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/google-java-format.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/PerformanceTestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/StringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/SwitchString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFundamental.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamental.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter2/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter2/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter2/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter2/InstanceVariablesAndInitializationBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/InstanceVariablesAndInitializationBlocks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter2/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter2/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2/People.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3/CarControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3/CarControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumericIiterals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter1/NumericIiterals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,26 +60,13 @@
       <recent name="Chapter3.Interfaces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Overloaded">
+  <component name="RunManager" selected="Application.StringBestPratice">
     <configuration name="BaseClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="QuizTest.BaseClass" />
       <module name="JavaFundamental" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="QuizTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Chapter3.Polymorphism.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.Polymorphism.Main" />
-      <module name="JavaFundamental" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuizTest.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QuizTest.Main" />
+    <configuration name="PerformanceTestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.PerformanceTestString" />
       <module name="JavaFundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QuizTest.SupperClass" />
+          <option name="PATTERN" value="String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +100,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QuizTest.Test" />
+    <configuration name="StringBestPratice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.StringBestPratice" />
       <module name="JavaFundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="QuizTest.SupperClass" />
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.SwitchString" />
+      <module name="JavaFundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBestPratice" />
+        <item itemvalue="Application.SwitchString" />
+        <item itemvalue="Application.PerformanceTestString" />
         <item itemvalue="Application.Overloaded" />
         <item itemvalue="Application.BaseClass" />
-        <item itemvalue="Application.QuizTest.Main" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Chapter3.Polymorphism.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +150,9 @@
       <workItem from="1682764113216" duration="21000" />
       <workItem from="1682844728711" duration="8953000" />
       <workItem from="1687493606345" duration="1552000" />
-      <workItem from="1687504737064" duration="5672000" />
+      <workItem from="1687504737064" duration="5928000" />
+      <workItem from="1687595001617" duration="6380000" />
+      <workItem from="1687612142428" duration="1399000" />
     </task>
     <servers />
   </component>
