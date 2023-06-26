@@ -2,7 +2,7 @@ package String;
 /**
  * @author BAO 6/24/2023
  */
-public class StringBestPratice {
+public class StringBestPractice {
 
   /**
    * Strings are used in java classloader and immutability provides security that correct class is
@@ -56,6 +56,10 @@ public class StringBestPratice {
     StringBuilder helloBao = new StringBuilder();
     helloBao.append("Hello").append(" Nguyen").append(" Duc").append(" Bao");
     System.out.println(helloBao);
+
+    String str = "bao";
+    str = str.concat(" nguyen");
+    System.out.println(str);
   }
 
   /** Tránh new 1 đối tượng để chuyển sang string */
